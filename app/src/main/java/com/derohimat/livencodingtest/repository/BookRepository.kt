@@ -1,6 +1,8 @@
+package com.derohimat.livencodingtest.repository
+
 import android.content.Context
 import com.derohimat.livencodingtest.R
-import com.derohimat.livencodingtest.repository.Product
+import com.derohimat.livencodingtest.data.Book
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.delay
 import kotlinx.serialization.builtins.ListSerializer

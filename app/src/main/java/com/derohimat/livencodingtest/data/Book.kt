@@ -1,3 +1,5 @@
+package com.derohimat.livencodingtest.data
+
 data class Book(
     val id: String,
     val name: String,

@@ -1,7 +1,7 @@
 package com.derohimat.livencodingtest.di
 
-import BooksRepository
-import BooksRepositoryImpl
+import com.derohimat.livencodingtest.repository.BooksRepository
+import com.derohimat.livencodingtest.repository.BooksRepositoryImpl
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn

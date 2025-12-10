@@ -1,7 +1,7 @@
 package com.derohimat.livencodingtest.ui.book
 
-import Book
-import BooksRepository
+import com.derohimat.livencodingtest.data.Book
+import com.derohimat.livencodingtest.repository.BooksRepository
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
